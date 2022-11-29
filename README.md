@@ -1,5 +1,8 @@
 <h1 align="center"> YouTube API app </h1>
 
+## Step-by-step
+
+You need to create a new project in Google Cloud, create the credentials for OAuth2.0, or (keep working)
 
 The project allows the user login with Google OAuth2, and retrieves the user's Access Token. 
 
