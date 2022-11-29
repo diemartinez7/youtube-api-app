@@ -1,7 +1,5 @@
 <h1 align="center"> YouTube API app </h1>
 
-[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
-
 
 The project allows the user login with Google OAuth2, and retrieves the user's Access Token. 
 
