@@ -1,8 +1,13 @@
 <h1 align="center"> YouTube API app </h1>
 
-## Step-by-step
+## :footprints: Step-by-step
 
-You need to create a new project in Google Cloud, create the credentials for OAuth2.0, or (keep working)
+<ul style="list-style-type:disc">
+  <li>You need to create a new project in Google Cloud,</li>
+  <li>enable the YouTube Data API, </li>
+  <li>complete the OAuth consent screen, </li>
+  <li>create the credentials for OAuth2.0. </li>
+</ul>
 
 The project allows the user login with Google OAuth2, and retrieves the user's Access Token. 
 
@@ -18,18 +23,19 @@ GOOGLE_CLIENT_SECRET=
 GOOGLE_REDIRECT_URL=
 ```
 
-## Prerequisites
-Tools that we need to run this app:
-
-- ***[Node.js](https://nodejs.org/en/)***
-- ***[Node Package Manager](https://www.npmjs.com/get-npm)***
-
-<br>
 
 ## :computer: Instalation
 ```
 npm run start:dev
 ```
+<br>
+
+## :gear:	Prerequisites
+Tools that we need to run this app:
+
+- ***[Node.js](https://nodejs.org/en/)***
+- ***[Node Package Manager](https://www.npmjs.com/get-npm)***
+
 <br>
 
 ## :warning: devDependencies
