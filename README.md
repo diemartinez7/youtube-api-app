@@ -1,8 +1,8 @@
 <h1> YouTube API app </h1>
-
+:rocket:
 <br>
 
-## :rocket: Goals
+## :dart:	Goals
 
 The project allows the user login with Google OAuth2, and retrieves the user's Access Token. 
 
@@ -36,7 +36,7 @@ GOOGLE_REDIRECT_URL=
 
 <br>
 
-## :computer: Instalation
+## :computer: Initialization
 
 
 ```
